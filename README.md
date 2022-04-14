@@ -1,7 +1,7 @@
-# bicycle-shop
+# Landing-page
 
-Работая над проектом магазина велосипедов я тренировал:
-1) Гибкую и адаптивную верстку,
-2) Препроцессор SCSS,
-3) Методологию БЭМ,
-4) Общие навыки верстки.
+## Потестить: [клик](https://saveliy2508.github.io/bicycle-shop/)
+
+### Лендиг написан для тренировки навыков верстки: гибкой(flex) и отзывчивой(brakepoint) верстки, БЭМ, SCSS, menu-burger и т.д.
+
+### HTML :computer: SCSS :computer: JAVASCRIPT :computer: FLEX :computer: 
